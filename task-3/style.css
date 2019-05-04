@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(#58d0dd, #a0d38a);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset {
+    align-content: center;
+    margin: 30px 10px 30px 50px;
+}
+input {
+    display: block;
+}
+
+button {
+    background-color: #43a7bb;
+    color: white;
+    border: none;
+    padding: 10px 10px 10px 10px;
+}

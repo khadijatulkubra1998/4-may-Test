@@ -1,0 +1,84 @@
+.cart {
+    background-color: #c63928;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    font-family: 'montserrat';
+    font-size: large;
+    border: none;
+}
+
+.cart:hover{
+    background-color: #ed4d4f;
+    
+}
+
+.start {
+    background-color: #fcd835;
+    color: #2a61fb;
+    border: solid #2a61fb;
+    padding: 8px 30px 8px 30px;
+    font-family: 'Gugi';
+}
+
+.start:hover{
+    background-color: #2a61fb;
+    color: #fcd835;
+}
+
+.login {
+    background-image: linear-gradient(-90deg, #5bd1d8, #95d394);
+    border-radius: 25px;
+    padding: 10px 40px 10px 40px;
+    color: white;
+    border: none;
+    font-size: medium;
+    letter-spacing: 1px;
+}
+
+.signup {
+    background-color: white;
+    border: solid #6749ea;
+    color: #6749ea;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+    font-family: 'montserrat';
+    font-size: medium;
+    font-weight: bold;
+}
+
+.signup:hover {
+    background-color:#6749ea;
+    color: white; 
+}
+
+.subscribe {
+    background-color: #f7b332;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'montserrat';
+ }
+
+
+ .icon {
+   border-radius: 100%;
+   border: none;
+   padding:  10px 10px 10px 10px;
+   color: #63b5f6;
+   border: solid #63b5f6;
+   background-color: white;
+}
+
+.icon:hover{
+    background-color: #63b5f6;
+    color: white;
+}
+
+button {
+    margin: 10px 10px 10px 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
